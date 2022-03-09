@@ -25,3 +25,8 @@ html {
     background: #44c8f5;
     color: white;
 }
+
+body{
+    max-width: 42em;
+    margin: 0 auto;
+}
